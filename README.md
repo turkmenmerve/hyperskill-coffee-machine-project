@@ -1,1 +1,1 @@
-# hyperskill_coffee_machine_project
+# hyperskill-coffee-machine-project
